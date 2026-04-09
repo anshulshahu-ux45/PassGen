@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Minimalist Palette -->
+    <color name="primary">#212121</color>
+    <color name="primary_light">#484848</color>
+    <color name="primary_dark">#000000</color>
+
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#212529</color>
+    <color name="on_surface_variant">#6C757D</color>
+
+    <color name="divider">#DEE2E6</color>
+
+    <!-- Strength Colors (Minimalist versions) -->
+    <color name="strength_weak">#E57373</color>
+    <color name="strength_fair">#FFB74D</color>
+    <color name="strength_good">#81C784</color>
+    <color name="strength_strong">#4DB6AC</color>
+</resources>
